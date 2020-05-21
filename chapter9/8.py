@@ -1,0 +1,9 @@
+"""
+@author:Liushihao
+@time:2020/5/21:10:14
+@email:Liushihao_1224@163.com
+@describe:
+(选做)使用二进制读/写模块(如Pickle)编写一个程序实现如下功能：
+(1)将给定音乐文件(如a.mp3)转化为数组并保存为二进制文件a_bin.dat。
+(2)从二进制文件a_bin.dat中读取数组并重新恢复为音乐文件。
+"""
